@@ -163,11 +163,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/8fde43cc-1ebe-47e5-81b2-e09bd0c52864)
 
 
-* Click "Agent Panel"
-* Under "Users" tab, locate "Add User" and open
+* Click "Admin Panel"
+* Under "Manage" tab, locate "SLA" and open
+* Locate "Add New SLA Plan"
 * Fill form with the applicable information
-* Click "Add User"
+* Click "Add Plan"
+* (Follow the same steps for following SLA additions)
 
+
+<h3><strong> Configure Help Topics </strong></h3>
+
+![image](https://github.com/user-attachments/assets/5761019c-5cce-4070-986d-5a4ea8c65853)
+![image](https://github.com/user-attachments/assets/027a4a5e-c5fa-48da-a711-4fc63d27cb70)
+![image](
 
 
 
