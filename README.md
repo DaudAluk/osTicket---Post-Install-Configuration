@@ -52,11 +52,14 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 * Open (http://localhost/osTicket/scp/login.php) in broswer
 * Log in
-* Locate "admin panel" folder and open
-* Locate "osTicket" folder and open
-* Locate "include" folder and open
-* Locate "ost-sampleconfig.ph" file
-* Rename "ost-sampleconfig.ph" and change to "ost-config.php"
+* Locate "Admin Panel" and open
+* Locate "Agents" and open
+* Locate "Roles" and open
+* Locate "Add New Role" and open
+* Choose a desired name for role
+* Click "Permissions" tab
+* Under "Tickets" "Tasks" & "Knowledgebase" check all boxes
+* After all boxes are checked, click "Add Role"
 
   
 </p>
