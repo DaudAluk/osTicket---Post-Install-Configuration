@@ -106,5 +106,31 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/28c3e677-5774-47fe-91b7-2ab045835125)
 ![image](https://github.com/user-attachments/assets/13e2e777-cb9c-4f47-bef1-5bc65dffd22b)
 
-* Under the "Agents" tab, locate "Teams" and open
+* Under the "Settings" tab, locate "Users" and open
+* Under the "Authentication Settings" segment, locate "Registration Required"
+* Make sure the "Require registration and login to create tickets" box is unchecked
+* Click "Save Changes"
+
+<h3><strong> Configure Agents </strong></h3>
+
+![image](https://github.com/user-attachments/assets/7a8fd167-6f0e-4d3c-a38c-ae45acda9522)
+![image](https://github.com/user-attachments/assets/05e8df3e-0bda-41b2-8be6-74b33cf432d6)
+![image](https://github.com/user-attachments/assets/7a03fd54-5106-4621-9b25-2f9cdc65944b)
+![image](https://github.com/user-attachments/assets/e9d2fd27-340b-4b88-9a35-3d5cd649ea4a)
+![image](https://github.com/user-attachments/assets/b401b45f-faaa-47bc-83a7-1a7dafb580d9)
+![image](https://github.com/user-attachments/assets/a19bb763-4f8b-40d6-b5ce-91ae687d756b)
+![image](https://github.com/user-attachments/assets/a6b889f4-9d1a-49ce-aa94-e0ade2ec5c23)
+![image](https://github.com/user-attachments/assets/8253700c-5dba-4da8-8aa9-872e1a57915f)
+
+![image](https://github.com/user-attachments/assets/dd5a8e56-2f13-4d9b-b05f-d3b8ed9e4749)
+![image](https://github.com/user-attachments/assets/2d16a6ca-792c-4b82-8f58-58bcf270827f)
+![image](https://github.com/user-attachments/assets/6c7745a0-a29a-4a51-a5fd-3e78ce7e18e4)
+
+
 * 
+
+
+![image]
+![image]
+![image]
+
