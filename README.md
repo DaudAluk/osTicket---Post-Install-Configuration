@@ -127,10 +127,30 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/6c7745a0-a29a-4a51-a5fd-3e78ce7e18e4)
 
 
+* Under "Agents" tab, locate "Add New Agent" and open
+* Under "Account" tab, fill form with the applicable information and set password
+* Under "Access" tab, locate Primary Depart Segment
+* Choose applicable options for both "Select Department" and "Select Role"
+* Under "Teams" tab, choose applicable option for "Select Team"
+* Click "Create"
+* (Follow the same steps for following agent additions)
+
+
+<h3><strong> Configure Users </strong></h3>
+
+![image](https://github.com/user-attachments/assets/6d1b67a8-b2ed-41a6-94da-5757b5374e62)
+![image](https://github.com/user-attachments/assets/88ab51af-7a21-4da0-9bef-42c0c0135e81)
+![image](https://github.com/user-attachments/assets/be3c95e2-c4a5-4bba-ba04-ac47072a4303)
+![image](https://github.com/user-attachments/assets/65eeda0f-edcd-43ca-a786-140cef8260d9)
+![image](https://github.com/user-attachments/assets/a3582b05-6887-4936-81dd-3dcafeb31d57)
+
+* Click "Agent Panel"
 * 
 
 
-![image]
-![image]
-![image]
+
+![image](
+![image](
+![image](
+
 
