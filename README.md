@@ -150,9 +150,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 * Click "Add User"
 
 
+<h3><strong> Configure SLAs </strong></h3>
 
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/cdbc0deb-7e74-4f92-8a71-15048090517d)
+![image](https://github.com/user-attachments/assets/ac37c200-b8d6-4ee3-a611-364d1c292b72)
+![image](https://github.com/user-attachments/assets/283dbe4c-6293-4f51-aaa1-a0ebbdd8103c)
+![image](https://github.com/user-attachments/assets/92895957-9a0e-4fff-aa17-10561232a429)
+![image](https://github.com/user-attachments/assets/dd74ed28-b73c-4470-9845-3d525ce51721)
+![image](https://github.com/user-attachments/assets/e1031ed6-c590-4cc6-a168-6f267e3d38bb)
+![image](https://github.com/user-attachments/assets/39ca3290-2e71-4554-bd44-b461e4e77c0f)
+![image](https://github.com/user-attachments/assets/e02ffbd6-2089-477a-b01b-3dbcc4e7e233)
+![image](https://github.com/user-attachments/assets/8fde43cc-1ebe-47e5-81b2-e09bd0c52864)
+
+
+* Click "Agent Panel"
+* Under "Users" tab, locate "Add User" and open
+* Fill form with the applicable information
+* Click "Add User"
+
+
+
 
 
