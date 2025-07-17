@@ -145,7 +145,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/a3582b05-6887-4936-81dd-3dcafeb31d57)
 
 * Click "Agent Panel"
-* 
+* Under "Users" tab, locate "Add User" and open
+* Fill form with the applicable information
+* Click "Add User"
 
 
 
