@@ -64,23 +64,42 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 </p>
 <br />
+<h3><strong> Configure Departments </strong></h3>
+<p>
+  
+![image](https://github.com/user-attachments/assets/f37dc7be-3f16-49d3-993a-c840d5792484)
+![image](https://github.com/user-attachments/assets/ec71e4bf-a2d4-4c06-8ffc-773d7488570a)
+![image](https://github.com/user-attachments/assets/9fcb7fb3-abcf-4d8a-86f9-f5c71fbc8c00)
 
-<p>
-![image](
-![image](
-![image](
-![image](
-![image](
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+  
+* Open (http://localhost/osTicket/scp/login.php) in broswer
+* Log in
+* Locate "Admin Panel" and open
+* Locate "Agents" and open
+* Locate "Roles" and open
+* Locate "Add New Role" and open
+* Choose a desired name for role
+* Click "Permissions" tab
+* Under "Tickets" "Tasks" & "Knowledgebase" check all boxes
+* After all boxes are checked, click "Add Role"
+
 <br />
-
+<h3><strong> Configure Teams </strong></h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+![image](https://github.com/user-attachments/assets/5163c556-699a-40fe-9e59-ebb084dd2b33)
+![image](https://github.com/user-attachments/assets/f3339da7-1329-4d7d-8326-7283f9ce7bcc)
+![image](https://github.com/user-attachments/assets/2f1af984-169a-4c6b-a5ca-1216e404a224)
+![image](https://github.com/user-attachments/assets/b2008e63-5c73-44fa-9f2a-fb951081b8a5)
+
+
+![image](
+![image](
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
