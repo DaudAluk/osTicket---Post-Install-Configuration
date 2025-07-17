@@ -98,3 +98,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 * Click "Create Team"
 </p>
 <br />
+
+<h3><strong> Configure User Settings </strong></h3>
+
+![image](https://github.com/user-attachments/assets/e1bc6480-59aa-4b70-a230-f903deb9e002)
+![image](https://github.com/user-attachments/assets/4b18c3bf-889f-4e24-82da-16ede3ded6f3)
+![image](https://github.com/user-attachments/assets/28c3e677-5774-47fe-91b7-2ab045835125)
+![image](https://github.com/user-attachments/assets/13e2e777-cb9c-4f47-bef1-5bc65dffd22b)
+
+* Under the "Agents" tab, locate "Teams" and open
+* 
