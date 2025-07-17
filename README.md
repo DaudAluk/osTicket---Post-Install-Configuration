@@ -74,16 +74,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
   
-* Open (http://localhost/osTicket/scp/login.php) in broswer
-* Log in
-* Locate "Admin Panel" and open
-* Locate "Agents" and open
-* Locate "Roles" and open
-* Locate "Add New Role" and open
-* Choose a desired name for role
-* Click "Permissions" tab
-* Under "Tickets" "Tasks" & "Knowledgebase" check all boxes
-* After all boxes are checked, click "Add Role"
+* Under the "Agents" tab, locate "Departments" and open
+* Locate "Add New Department" and open
+* Fill form with the applicable information 
+* Click "Create Department"
 
 <br />
 <h3><strong> Configure Teams </strong></h3>
@@ -96,11 +90,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/b2008e63-5c73-44fa-9f2a-fb951081b8a5)
 
 
-![image](
-![image](
-
-
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+* Under the "Agents" tab, locate "Teams" and open
+* Locate "Add New Team" and open
+* Fill form with the applicable information 
+* Click "Create Team"
 </p>
 <br />
