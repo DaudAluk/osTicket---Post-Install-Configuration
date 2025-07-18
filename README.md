@@ -176,6 +176,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/5761019c-5cce-4070-986d-5a4ea8c65853)
 ![image](https://github.com/user-attachments/assets/027a4a5e-c5fa-48da-a711-4fc63d27cb70)
 ![image](https://github.com/user-attachments/assets/7dd47a2d-6aec-4e6d-82cb-2c0f0fd58088)
+![image](https://github.com/user-attachments/assets/e2456e5f-9165-41ae-9cf3-0b6d6b81515f)
+![image](https://github.com/user-attachments/assets/49c3583f-2be6-4ebb-aefc-62d3c577ff05)
+![image](https://github.com/user-attachments/assets/5f71b226-3d32-46a8-a484-c8f17c80da45)
+![image](https://github.com/user-attachments/assets/75bc9495-dbc2-419d-8dad-b4880293b42d)
+![image](https://github.com/user-attachments/assets/377109b3-0b35-416e-a1cb-fd2634840f7d)
+![image](https://github.com/user-attachments/assets/d214f316-de7d-42b6-b755-4114325fe859)
+![image](https://github.com/user-attachments/assets/50da7bf5-3b77-4229-b634-b26d78805b0b)
+![image](https://github.com/user-attachments/assets/a90247f6-e553-411c-bc74-d1102c208d54)
+
+
+
+
+
+
+
 
 
 
