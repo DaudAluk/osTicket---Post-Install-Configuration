@@ -24,11 +24,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+Before osTicket is fully functioning after installation, it needs to be further configured using the admin interface or panel. Only staff with admin rights can access the admin panel. It essentially comes down to modifying departments, members, agents, hot topics, emails, and system preferences in the post-installation setup. Please be aware that you must use the login and password you set during installation to log in to the post-installation configuration. Thus, in this project, we will...
+
+* Configure Roles
+* Create Departments
+* Configure Teams
+* Configure System Preferences
+* Configure Users
+* Configure SLAs
+* Configure Hot Topics
 
 <h2>Configuration Steps</h2>
 
