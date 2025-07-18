@@ -187,11 +187,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/7ebe4c93-2f9f-4696-a08a-c6a143549b09)
 
 * Click "Admin Panel"
-* Under "Manage" tab, locate "SLA" and open
-* Locate "Add New SLA Plan"
+* Under "Manage" tab, locate "Help Topics" and open
+* Locate "Add New Help Topic"
 * Fill form with the applicable information
-* Click "Add Plan"
-* (Follow the same steps for following SLA additions)
+* Click "Add Topic"
+* (Follow the same steps for following Help Topic additions)
 
 
 
