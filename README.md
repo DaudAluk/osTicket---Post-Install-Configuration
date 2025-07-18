@@ -184,8 +184,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/d214f316-de7d-42b6-b755-4114325fe859)
 ![image](https://github.com/user-attachments/assets/50da7bf5-3b77-4229-b634-b26d78805b0b)
 ![image](https://github.com/user-attachments/assets/a90247f6-e553-411c-bc74-d1102c208d54)
+![image](https://github.com/user-attachments/assets/7ebe4c93-2f9f-4696-a08a-c6a143549b09)
 
-
+* Click "Admin Panel"
+* Under "Manage" tab, locate "SLA" and open
+* Locate "Add New SLA Plan"
+* Fill form with the applicable information
+* Click "Add Plan"
+* (Follow the same steps for following SLA additions)
 
 
 
